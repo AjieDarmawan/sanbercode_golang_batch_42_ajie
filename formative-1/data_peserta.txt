@@ -1,0 +1,10 @@
+1. Nama: Ajie Darmawan
+2. Email: ajie.darmawan106@gmail.com
+3. Sistem Operasi yang digunakan: MacOs
+4. Akun Github: AjieDarmawan16
+5. Akun Telegram: AjieDarmawan106
+6. Status (Bekerja/Mahasiswa): Bekerja
+7. Umur:26
+8. Pernah menggunakan Go? :Belum
+9. Bahasa Pemrograman yg pernah dipelajari: PHP,LUMEN,LARAVEL,CODEIGNETER,NODE JS, FLUTTER, KOTLIN , JAVA, REACT JS 
+10. Pernah membuat REST API? : YA
